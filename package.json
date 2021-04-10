@@ -1,0 +1,14 @@
+{
+  "name": "express-hw",
+  "version": "1.0.0",
+  "description": "homework for Springboard 32.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Cox",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
